@@ -5,3 +5,4 @@ Esse repositório foi criado para acompanhamento dos meus estudos, tive a idéia
 Enfim, é isso. Farei uma lista com as datas e conteúdo estudado:
 
 -  22/07: estudo de SEO Avançado.
+-  23/07: SEO avançado - prática.
