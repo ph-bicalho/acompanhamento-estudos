@@ -6,3 +6,4 @@ Enfim, é isso. Farei uma lista com as datas e conteúdo estudado:
 
 -  22/07: estudo de SEO Avançado.
 -  23/07: SEO avançado - prática.
+-  24/07: exercícios de <a href ="https://github.com/ph-bicalho/js-exercicio">JS intermedíário</a> e <a href ="https://github.com/ph-bicalho/css-exercicio">CSS avançado</a> do curso Dev Quest. 
