@@ -11,3 +11,5 @@ Enfim, é isso. Farei uma lista com as datas e conteúdo estudado:
 - 27/07: Javascript avançado, estudo de javaScript assincrono.
 - 28/07: Javascript avançado, Json e  requisições com fetch.
 - 02/08: Testes automatizados de software com Jest.
+- 03/08: Testes automatizados com Jest.
+- 04/08: TDD e o conceito de Red, Green e Refactor.
