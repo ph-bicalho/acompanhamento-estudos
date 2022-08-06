@@ -13,3 +13,5 @@ Enfim, é isso. Farei uma lista com as datas e conteúdo estudado:
 - 02/08: Testes automatizados de software com Jest.
 - 03/08: Testes automatizados com Jest.
 - 04/08: TDD e o conceito de Red, Green e Refactor.
+- 05/08: <a href= "https://github.com/ph-bicalho/buscador-github"> Buscador GitHub</a> construido em JS puro consumindo API do GitHub.
+- 06/08: <a href= "https://github.com/ph-bicalho/quest-js-avancado"> Desafio JS avançado</a> obtendo mais dados da API do GitHub.
