@@ -15,3 +15,5 @@ Enfim, é isso. Farei uma lista com as datas e conteúdo estudado:
 - 04/08: TDD e o conceito de Red, Green e Refactor.
 - 05/08: <a href= "https://github.com/ph-bicalho/buscador-github"> Buscador GitHub</a> construido em JS puro consumindo API do GitHub.
 - 06/08: <a href= "https://github.com/ph-bicalho/quest-js-avancado"> Desafio JS avançado</a> obtendo mais dados da API do GitHub.
+- 09/08: React avançado
+- 10/08: Context API
